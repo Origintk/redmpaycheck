@@ -33,7 +33,5 @@ AddEventHandler("redm:paycheck",function()
 		--if group == "admin" then -- grupo
        -- Character.addCurrency(0, 100)
 		--end
-		
-		
-	end
+
 end)
